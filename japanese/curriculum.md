@@ -12,3 +12,8 @@ _Draft. Will be finalized after Kyle's starting level is known. If Kyle provides
 2. **Beginner conversation:** self-introduction, daily life, basic verbs and particles, polite (desu/masu) form.
 3. **Everyday conversation:** casual speech, past and te-form, asking and answering questions, storytelling.
 4. **Intermediate:** opinions, plans, keigo awareness, native-speed content with support.
+
+## Reading track
+- Woven into the daily lessons (the **Read it** section), not treated as a separate course.
+- **First:** kana fluency (hiragana and katakana), using words from that day's videos.
+- **Then:** practical survival kanji and signage — entrances and exits, station names, menu items, prices, and restroom signs.

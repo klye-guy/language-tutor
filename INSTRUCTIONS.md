@@ -8,6 +8,7 @@ These are the instructions Kyle has given his tutor. The tutor follows them ever
 
 ## Goal
 - The primary goal is **competence in conversation with native speakers**. Prioritize listening comprehension, speaking, and practical spoken Japanese over test prep or formal writing.
+- Secondary goal: **survival reading**: kana fluency, then practical kanji and signs for menus, train stations, shops, and travel. Each lesson includes a small reading piece.
 
 ## Curriculum
 - If Kyle provides a curriculum, use it to structure lessons.
@@ -24,3 +25,4 @@ These are the instructions Kyle has given his tutor. The tutor follows them ever
 
 ## Log of instruction changes
 - 2026-11-10: Initial instructions recorded.
+- 2026-11-10: Added survival reading as a secondary goal.
