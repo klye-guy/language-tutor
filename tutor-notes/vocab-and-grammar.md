@@ -62,6 +62,43 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | 寒い / さむい | samui | cold (weather) | 2026-11-11 |
 | 24時間 / にじゅうよじかん | nijūyo-jikan | 24 hours (sign) | 2026-11-11 |
 | 営業中 / えいぎょうちゅう | eigyō-chū | open for business (sign) | 2026-11-11 |
+| 夫 / おっと | otto | (my) husband | 2026-11-12 |
+| 出かけました / でかけました | dekakemashita | went out | 2026-11-12 |
+| 町 / まち | machi | town, part of a city | 2026-11-12 |
+| 都会 / とかい | tokai | big city | 2026-11-12 |
+| 田舎 / いなか | inaka | countryside | 2026-11-12 |
+| 服屋 / ふくや | fukuya | clothing store | 2026-11-12 |
+| 本屋 / ほんや | hon'ya | bookstore | 2026-11-12 |
+| 〜屋 / 〜や | ~ya | ~ shop (sign) | 2026-11-12 |
+| 悩みます / なやみます | nayamimasu | can't decide, be torn | 2026-11-12 |
+| 注文しました / ちゅうもんしました | chūmon shimashita | ordered | 2026-11-12 |
+| 割り箸 / わりばし | waribashi | disposable chopsticks | 2026-11-12 |
+| 種類 / しゅるい | shurui | kinds, types | 2026-11-12 |
+| 〜冊 / 〜さつ | ~satsu | counter for books | 2026-11-12 |
+| 全部 / ぜんぶ | zenbu | all, everything | 2026-11-12 |
+| 初めて / はじめて | hajimete | for the first time | 2026-11-12 |
+| エビ | ebi | shrimp | 2026-11-12 |
+| イカ | ika | squid | 2026-11-12 |
+| かぼちゃ | kabocha | pumpkin | 2026-11-12 |
+| 茄子 / なす | nasu | eggplant | 2026-11-12 |
+| 鶏肉 / とりにく | toriniku | chicken (meat) | 2026-11-12 |
+| ヒント | hinto | hint | 2026-11-12 |
+| 男の子 / おとこのこ | otoko no ko | boy | 2026-11-12 |
+| 女の子 / おんなのこ | onna no ko | girl | 2026-11-12 |
+| メガネ | megane | glasses | 2026-11-12 |
+| 頭がいい / あたまがいい | atama ga ii | smart | 2026-11-12 |
+| 探偵 / たんてい | tantei | detective | 2026-11-12 |
+| 赤い / あかい | akai | red | 2026-11-12 |
+| 青い / あおい | aoi | blue | 2026-11-12 |
+| 黒い / くろい | kuroi | black | 2026-11-12 |
+| 白い / しろい | shiroi | white | 2026-11-12 |
+| 大きい / おおきい | ōkii | big | 2026-11-12 |
+| 猫 / ねこ | neko | cat | 2026-11-12 |
+| ワンピース | wanpiisu | dress | 2026-11-12 |
+| リボン | ribon | ribbon, bow | 2026-11-12 |
+| 箒 / ほうき | hōki | broom | 2026-11-12 |
+| 魔女 / まじょ | majo | witch | 2026-11-12 |
+| 〜階 / 〜かい | ~kai | ~th floor (sign) | 2026-11-12 |
 
 ## Grammar points
 
@@ -80,3 +117,12 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | 〜によく〜を食べます | often eat [food] at/for [meal] | 2026-11-11 |
 | 〜ましょう | let's ~ (行きましょう) | 2026-11-11 |
 | 〜ました | polite past (買いました, 空きました) | 2026-11-11 |
+| AとBで / 〜と二人で | with [person] (夫と二人で, just the two of us) | 2026-11-12 |
+| [place]で〜を買いました | bought ~ at [place] (で marks where an action happens) | 2026-11-12 |
+| 〜にします / 〜にしました | I'll have ~ / we went with ~ (choosing) | 2026-11-12 |
+| 〜かったです | was ~ (past of い-adjectives: おいしかった) | 2026-11-12 |
+| AもBも | both A and B (夫も私も) | 2026-11-12 |
+| 〜を着ています / かけています / つけています | is wearing (clothes / glasses / accessory) | 2026-11-12 |
+| 〜を飼っています | keeps [a pet] | 2026-11-12 |
+| 〜じゃありません | is not ~ (everyday form of ではありません) | 2026-11-12 |
+| い-adjective + noun (赤いリボン) | describing a thing with a color or size | 2026-11-12 |
