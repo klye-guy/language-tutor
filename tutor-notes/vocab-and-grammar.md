@@ -99,6 +99,41 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | 箒 / ほうき | hōki | broom | 2026-11-12 |
 | 魔女 / まじょ | majo | witch | 2026-11-12 |
 | 〜階 / 〜かい | ~kai | ~th floor (sign) | 2026-11-12 |
+| 駅 / えき | eki | station | 2026-11-13 |
+| 乗ります / のります | norimasu | ride, get on | 2026-11-13 |
+| 降ります / おります | orimasu | get off | 2026-11-13 |
+| 近い / ちかい | chikai | near | 2026-11-13 |
+| 遠い / とおい | tōi | far | 2026-11-13 |
+| 改札 / かいさつ | kaisatsu | ticket gate | 2026-11-13 |
+| ホーム | hōmu | platform | 2026-11-13 |
+| 切符 / きっぷ | kippu | ticket | 2026-11-13 |
+| 待ちます / まちます | machimasu | wait | 2026-11-13 |
+| 寝ています / ねています | nete imasu | is sleeping | 2026-11-13 |
+| 毎日 / まいにち | mainichi | every day | 2026-11-13 |
+| たまに | tama ni | occasionally | 2026-11-13 |
+| 信号 / しんごう | shingō | traffic light | 2026-11-13 |
+| 青 / あお | ao | blue; green (traffic light) | 2026-11-13 |
+| 横断歩道 / おうだんほどう | ōdan hodō | crosswalk | 2026-11-13 |
+| 渡ります / わたります | watarimasu | cross | 2026-11-13 |
+| 地下鉄 / ちかてつ | chikatetsu | subway | 2026-11-13 |
+| バス停 / バスてい | basu-tei | bus stop | 2026-11-13 |
+| お土産 / おみやげ | omiyage | souvenirs | 2026-11-13 |
+| 着きました / つきました | tsukimashita | arrived | 2026-11-13 |
+| 新幹線 / しんかんせん | shinkansen | bullet train | 2026-11-13 |
+| 乗り場 / のりば | noriba | boarding area (sign) | 2026-11-13 |
+| 切符売り場 / きっぷうりば | kippu uriba | ticket office (sign) | 2026-11-13 |
+| 券売機 / けんばいき | kenbaiki | ticket machine | 2026-11-13 |
+| 指定席 / していせき | shitei-seki | reserved seat | 2026-11-13 |
+| 自由席 / じゆうせき | jiyū-seki | unreserved seat | 2026-11-13 |
+| 片道 / かたみち | katamichi | one way | 2026-11-13 |
+| 往復 / おうふく | ōfuku | round trip | 2026-11-13 |
+| 現金 / げんきん | genkin | cash | 2026-11-13 |
+| 〜号車 / 〜ごうしゃ | ~gōsha | car number ~ (sign) | 2026-11-13 |
+| 〜番線 / 〜ばんせん | ~bansen | track number ~ (sign) | 2026-11-13 |
+| 〜枚 / 〜まい | ~mai | counter for tickets, flat things | 2026-11-13 |
+| 東口・西口・南口・北口 | higashi/nishi/minami/kita-guchi | east/west/south/north exit (sign) | 2026-11-13 |
+| 乗り換え / のりかえ | norikae | transfer (sign) | 2026-11-13 |
+| 間に合った / まにあった | ma ni atta | made it (in time) | 2026-11-13 |
 
 ## Grammar points
 
@@ -126,3 +161,12 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | 〜を飼っています | keeps [a pet] | 2026-11-12 |
 | 〜じゃありません | is not ~ (everyday form of ではありません) | 2026-11-12 |
 | い-adjective + noun (赤いリボン) | describing a thing with a color or size | 2026-11-12 |
+| AからBまで | from A to B (家から駅まで) | 2026-11-13 |
+| 歩いて / [vehicle]で行きます | go on foot / by [vehicle] | 2026-11-13 |
+| 〜ので | so, because (近いので歩いて行きます) | 2026-11-13 |
+| 〜しかありません | only ~ (with a negative verb) | 2026-11-13 |
+| 〜ている人もいます | some people are ~ing | 2026-11-13 |
+| 〜て、〜ます | do A and then B (切符を買って改札を通ります) | 2026-11-13 |
+| 〜たら | when/after ~ (駅に着いたら) | 2026-11-13 |
+| 〜に乗ります / 〜で降ります | get on ~ / get off at ~ | 2026-11-13 |
+| 〜まで、〜枚お願いします | (tickets) to ~, ~ of them, please | 2026-11-13 |
