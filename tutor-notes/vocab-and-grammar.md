@@ -134,6 +134,36 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | 東口・西口・南口・北口 | higashi/nishi/minami/kita-guchi | east/west/south/north exit (sign) | 2026-11-13 |
 | 乗り換え / のりかえ | norikae | transfer (sign) | 2026-11-13 |
 | 間に合った / まにあった | ma ni atta | made it (in time) | 2026-11-13 |
+| 母 / はは | haha | (my) mother | 2026-11-14 |
+| 昨日 / きのう | kinō | yesterday | 2026-11-14 |
+| 昼ごはん / ひるごはん | hirugohan | lunch | 2026-11-14 |
+| 会います / あいます | aimasu | meet | 2026-11-14 |
+| 真ん中 / まんなか | mannaka | the middle, halfway | 2026-11-14 |
+| 車 / くるま | kuruma | car | 2026-11-14 |
+| お店 / おみせ | o-mise | shop, restaurant | 2026-11-14 |
+| 紅茶 / こうちゃ | kōcha | (black) tea | 2026-11-14 |
+| 砂糖 / さとう | satō | sugar | 2026-11-14 |
+| 喋りました / しゃべりました | shaberimashita | chatted | 2026-11-14 |
+| 楽しかったです / たのしかったです | tanoshikatta desu | it was fun | 2026-11-14 |
+| 来月 / らいげつ | raigetsu | next month | 2026-11-14 |
+| 秋 / あき | aki | autumn, fall | 2026-11-14 |
+| お菓子 / おかし | o-kashi | snacks, sweets | 2026-11-14 |
+| 〜味 / 〜あじ | ~aji | ~ flavor | 2026-11-14 |
+| さつまいも | satsumaimo | Japanese sweet potato | 2026-11-14 |
+| 栗 / くり | kuri | chestnut | 2026-11-14 |
+| 和栗 / わぐり | waguri | Japanese chestnut | 2026-11-14 |
+| 一口 / ひとくち | hitokuchi | one bite | 2026-11-14 |
+| 匂い / におい | nioi | smell | 2026-11-14 |
+| 可愛い / かわいい | kawaii | cute | 2026-11-14 |
+| 動物 / どうぶつ | dōbutsu | animal | 2026-11-14 |
+| 両方 / りょうほう | ryōhō | both | 2026-11-14 |
+| 半袖 / はんそで | hansode | short sleeves | 2026-11-14 |
+| 秋限定 / あきげんてい | aki gentei | autumn only (label) | 2026-11-14 |
+| 期間限定 / きかんげんてい | kikan gentei | limited time only (label) | 2026-11-14 |
+| 新発売 / しんはつばい | shin hatsubai | new release (label) | 2026-11-14 |
+| 税込 / ぜいこみ | zeikomi | tax included (label) | 2026-11-14 |
+| 抹茶 / まっちゃ | matcha | matcha, green tea | 2026-11-14 |
+| 和食 / わしょく | washoku | Japanese food | 2026-11-14 |
 
 ## Grammar points
 
@@ -170,3 +200,10 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | 〜たら | when/after ~ (駅に着いたら) | 2026-11-13 |
 | 〜に乗ります / 〜で降ります | get on ~ / get off at ~ | 2026-11-13 |
 | 〜まで、〜枚お願いします | (tickets) to ~, ~ of them, please | 2026-11-13 |
+| 〜ヶ月に１回 / 一週間に一回 | once every ~ months / once a week (frequency) | 2026-11-14 |
+| 〜ながら | while ~ing (食べながら喋りました) | 2026-11-14 |
+| 〜てみます | try doing ~ (一口食べてみます) | 2026-11-14 |
+| 〜の味がします / 〜の匂いがします | tastes / smells like ~ | 2026-11-14 |
+| AとB、どっちが好きですか / Aの方が好きです | which do you like better / I like A better | 2026-11-14 |
+| 〜てきました | went and did ~ (買ってきました) | 2026-11-14 |
+| 〜じゃないです | is not ~ (casual-polite: コーヒーじゃないです) | 2026-11-14 |
