@@ -164,6 +164,42 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | 税込 / ぜいこみ | zeikomi | tax included (label) | 2026-11-14 |
 | 抹茶 / まっちゃ | matcha | matcha, green tea | 2026-11-14 |
 | 和食 / わしょく | washoku | Japanese food | 2026-11-14 |
+| 写真 / しゃしん | shashin | photo | 2026-11-15 |
+| 風景 / ふうけい | fūkei | scenery | 2026-11-15 |
+| 咲きます / さきます | sakimasu | (flowers) bloom | 2026-11-15 |
+| 薄い / うすい | usui | light, pale (color) | 2026-11-15 |
+| 濃い / こい | koi | dark, deep (color) | 2026-11-15 |
+| 虫 / むし | mushi | bug, insect | 2026-11-15 |
+| トンボ | tonbo | dragonfly | 2026-11-15 |
+| 飛びます / とびます | tobimasu | to fly | 2026-11-15 |
+| 止まっています / とまっています | tomatte imasu | is perched, has stopped | 2026-11-15 |
+| 田んぼ / たんぼ | tanbo | rice paddy | 2026-11-15 |
+| お米 / おこめ | o-kome | rice (uncooked) | 2026-11-15 |
+| 紅葉 / こうよう | kōyō | autumn leaves, leaves changing color | 2026-11-15 |
+| 雲 / くも | kumo | cloud | 2026-11-15 |
+| 公園 / こうえん | kōen | park | 2026-11-15 |
+| 海 / うみ | umi | sea, ocean | 2026-11-15 |
+| 天気 / てんき | tenki | weather | 2026-11-15 |
+| 曇り / くもり | kumori | cloudy | 2026-11-15 |
+| 晴れ / はれ | hare | sunny | 2026-11-15 |
+| 雨 / あめ | ame | rain | 2026-11-15 |
+| 気温 / きおん | kion | temperature (weather) | 2026-11-15 |
+| 涼しい / すずしい | suzushii | cool (pleasant) | 2026-11-15 |
+| 暑い / あつい | atsui | hot (weather) | 2026-11-15 |
+| 葉っぱ / はっぱ | happa | leaf | 2026-11-15 |
+| 落ち葉 / おちば | ochiba | fallen leaves | 2026-11-15 |
+| 松ぼっくり / まつぼっくり | matsubokkuri | pine cone | 2026-11-15 |
+| カラス | karasu | crow | 2026-11-15 |
+| 拾いました / ひろいました | hiroimashita | picked up | 2026-11-15 |
+| 平日 / へいじつ | heijitsu | weekday(s) | 2026-11-15 |
+| 週末 / しゅうまつ | shūmatsu | weekend | 2026-11-15 |
+| 神社 / じんじゃ | jinja | Shinto shrine | 2026-11-15 |
+| 鳥居 / とりい | torii | shrine gate | 2026-11-15 |
+| 駐車場 / ちゅうしゃじょう | chūshajō | parking lot | 2026-11-15 |
+| 月火水木金土日 + 曜日 | getsu, ka, sui, moku, kin, do, nichi + yōbi | Monday through Sunday (reading) | 2026-11-15 |
+| 土日祝 / どにちしゅく | donichishuku | weekends and holidays (sign) | 2026-11-15 |
+| 定休日 / ていきゅうび | teikyūbi | regular closing day (sign) | 2026-11-15 |
+| 営業時間 / えいぎょうじかん | eigyō jikan | business hours (sign) | 2026-11-15 |
 
 ## Grammar points
 
@@ -207,3 +243,11 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | AとB、どっちが好きですか / Aの方が好きです | which do you like better / I like A better | 2026-11-14 |
 | 〜てきました | went and did ~ (買ってきました) | 2026-11-14 |
 | 〜じゃないです | is not ~ (casual-polite: コーヒーじゃないです) | 2026-11-14 |
+| 何の〜ですか？ / 〜ですか？ 違います。 | what kind of ~ is it? / is it ~? No (guess-and-correct) | 2026-11-15 |
+| 〜が見えます | can see ~ (海が見えます) | 2026-11-15 |
+| 〜くないです | is not ~ (い-adjective negative: 暑くないです, 寒くないです) | 2026-11-15 |
+| [place]にいます | am/is at [place] (公園にいます) | 2026-11-15 |
+| 〜てません | isn't ~ing (casual-polite: 走ってません) | 2026-11-15 |
+| 〜になると / 〜になったら | when it becomes ~ (秋になると, 春になったら) | 2026-11-15 |
+| 〜くなります | becomes ~ (黄色くなります) | 2026-11-15 |
+| 〜ね | seeking agreement in small talk (涼しいですね) | 2026-11-15 |
