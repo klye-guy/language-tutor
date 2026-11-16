@@ -200,6 +200,55 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | 土日祝 / どにちしゅく | donichishuku | weekends and holidays (sign) | 2026-11-15 |
 | 定休日 / ていきゅうび | teikyūbi | regular closing day (sign) | 2026-11-15 |
 | 営業時間 / えいぎょうじかん | eigyō jikan | business hours (sign) | 2026-11-15 |
+| 家 / いえ | ie | house, home | 2026-11-16 |
+| 紹介します / しょうかいします | shōkai shimasu | introduce | 2026-11-16 |
+| 玄関 / げんかん | genkan | entryway (shoes come off) | 2026-11-16 |
+| お風呂 / おふろ | o-furo | bath | 2026-11-16 |
+| トイレ | toire | toilet, restroom | 2026-11-16 |
+| 台所 / だいどころ | daidokoro | kitchen | 2026-11-16 |
+| 料理 / りょうり | ryōri | cooking, food | 2026-11-16 |
+| テレビを見ます / テレビをみます | terebi o mimasu | watch TV | 2026-11-16 |
+| 部屋 / へや | heya | room | 2026-11-16 |
+| 寝ます / ねます | nemasu | sleep | 2026-11-16 |
+| 寝室 / しんしつ | shinshitsu | bedroom | 2026-11-16 |
+| 机 / つくえ | tsukue | desk | 2026-11-16 |
+| 仕事 / しごと | shigoto | work, job | 2026-11-16 |
+| 遊びます / あそびます | asobimasu | play | 2026-11-16 |
+| 庭 / にわ | niwa | yard, garden | 2026-11-16 |
+| 何曜日 / なんようび | nan'yōbi | what day of the week | 2026-11-16 |
+| 明日 / あした | ashita | tomorrow | 2026-11-16 |
+| 一昨日 / おととい | ototoi | day before yesterday | 2026-11-16 |
+| 明後日 / あさって | asatte | day after tomorrow | 2026-11-16 |
+| 頑張ろう / がんばろう | ganbarō | let's do our best | 2026-11-16 |
+| 休み / やすみ | yasumi | day off, break | 2026-11-16 |
+| のんびり | nonbiri | relaxed, taking it easy | 2026-11-16 |
+| 息子 / むすこ | musuko | (my) son | 2026-11-16 |
+| 娘 / むすめ | musume | (my) daughter | 2026-11-16 |
+| 学校 / がっこう | gakkō | school | 2026-11-16 |
+| 起きます / おきます | okimasu | wake up, get up | 2026-11-16 |
+| 早く / はやく | hayaku | early, quickly | 2026-11-16 |
+| 遅刻 / ちこく | chikoku | being late | 2026-11-16 |
+| 外食 / がいしょく | gaishoku | eating out | 2026-11-16 |
+| 混んでいます / こんでいます | konde imasu | is crowded | 2026-11-16 |
+| 空いています / すいています | suite imasu | is empty, not crowded | 2026-11-16 |
+| 趣味 / しゅみ | shumi | hobby | 2026-11-16 |
+| 本 / ほん | hon | book | 2026-11-16 |
+| 読みます / よみます | yomimasu | read | 2026-11-16 |
+| 紙 / かみ | kami | paper | 2026-11-16 |
+| 音楽 / おんがく | ongaku | music | 2026-11-16 |
+| 聞きます / ききます | kikimasu | listen, hear | 2026-11-16 |
+| ヘッドホン | heddohon | headphones | 2026-11-16 |
+| 曲 / きょく | kyoku | song, piece of music | 2026-11-16 |
+| 英語 / えいご | eigo | English | 2026-11-16 |
+| 簡単 / かんたん | kantan | easy, simple | 2026-11-16 |
+| お手洗い / おてあらい | otearai | restroom (sign, polite) | 2026-11-16 |
+| 男 / 女 (おとこ / おんな) | otoko / onna | men / women (restroom sign) | 2026-11-16 |
+| 押 / 引 (おす / ひく) | osu / hiku | push / pull (door sign) | 2026-11-16 |
+| 使用中 / しようちゅう | shiyōchū | occupied (sign) | 2026-11-16 |
+| 空き / あき | aki | vacant (sign) | 2026-11-16 |
+| エレベーター | erebētā | elevator | 2026-11-16 |
+| 非常口 / ひじょうぐち | hijōguchi | emergency exit (sign) | 2026-11-16 |
+| 禁煙 / きんえん | kin'en | no smoking (sign) | 2026-11-16 |
 
 ## Grammar points
 
@@ -251,3 +300,14 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | 〜になると / 〜になったら | when it becomes ~ (秋になると, 春になったら) | 2026-11-15 |
 | 〜くなります | becomes ~ (黄色くなります) | 2026-11-15 |
 | 〜ね | seeking agreement in small talk (涼しいですね) | 2026-11-15 |
+| [place]には〜があります / 〜はありません | there is ~ in [place] / there isn't ~ (１階にはお風呂があります, 庭はありません) | 2026-11-16 |
+| ここで〜ます | do ~ here (で marks where: ここでテレビを見ます) | 2026-11-16 |
+| [plain verb] + 場所 | the place where ~ (寝る場所, 仕事をする場所) | 2026-11-16 |
+| 何曜日ですか / 〜曜日でした | what day is it / it was ~day | 2026-11-16 |
+| 〜頃 / 〜時頃に起きます | around ~ (time): get up around ~ o'clock | 2026-11-16 |
+| 〜まで寝ています | sleep until ~ (１０時頃まで寝ています) | 2026-11-16 |
+| 〜ません (polite negative verb) | don't ~ (仕事をしません, 早く起きません) | 2026-11-16 |
+| 〜したくないです | don't want to ~ (料理をしたくないです) | 2026-11-16 |
+| 趣味は〜ことです | my hobby is ~ing (本を読むこと) | 2026-11-16 |
+| 〜のが好きです | like ~ing (音楽を聞くのが好きです) | 2026-11-16 |
+| 〜から(です) | because ~ (簡単でおいしいからです) | 2026-11-16 |
