@@ -249,6 +249,50 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | エレベーター | erebētā | elevator | 2026-11-16 |
 | 非常口 / ひじょうぐち | hijōguchi | emergency exit (sign) | 2026-11-16 |
 | 禁煙 / きんえん | kin'en | no smoking (sign) | 2026-11-16 |
+| りんご | ringo | apple | 2026-11-17 |
+| 〜の上 / 〜のうえ | ~no ue | on top of ~ | 2026-11-17 |
+| 〜の下 / 〜のした | ~no shita | under ~ | 2026-11-17 |
+| 〜の中 / 〜のなか | ~no naka | inside ~ | 2026-11-17 |
+| 右 / みぎ | migi | right | 2026-11-17 |
+| 左 / ひだり | hidari | left | 2026-11-17 |
+| 間 / あいだ | aida | between | 2026-11-17 |
+| 箱 / はこ | hako | box | 2026-11-17 |
+| 椅子 / いす | isu | chair | 2026-11-17 |
+| 袋 / ふくろ | fukuro | bag | 2026-11-17 |
+| ぶどう | budō | grapes | 2026-11-17 |
+| 買い物 / かいもの | kaimono | shopping | 2026-11-17 |
+| スーパー | sūpā | supermarket | 2026-11-17 |
+| 牛乳 / ぎゅうにゅう | gyūnyū | milk | 2026-11-17 |
+| 食パン / しょくパン | shokupan | sliced bread | 2026-11-17 |
+| ヨーグルト | yōguruto | yogurt | 2026-11-17 |
+| 〜個 / 〜こ | ~ko | counter for small objects | 2026-11-17 |
+| 〜入り / 〜いり | ~iri | pack of ~ (６枚入り) | 2026-11-17 |
+| 時々 / ときどき | tokidoki | sometimes | 2026-11-17 |
+| 賞味期限 / しょうみきげん | shōmi kigen | best-before date | 2026-11-17 |
+| レシート | reshiito | receipt | 2026-11-17 |
+| いくら | ikura | how much (price) | 2026-11-17 |
+| 合計 / ごうけい | gōkei | total | 2026-11-17 |
+| 地図 / ちず | chizu | map | 2026-11-17 |
+| 街 / まち | machi | town | 2026-11-17 |
+| 建物 / たてもの | tatemono | building | 2026-11-17 |
+| 病院 / びょういん | byōin | hospital | 2026-11-17 |
+| 銀行 / ぎんこう | ginkō | bank | 2026-11-17 |
+| 市役所 / しやくしょ | shiyakusho | city hall | 2026-11-17 |
+| タクシー乗り場 / タクシーのりば | takushii noriba | taxi stand | 2026-11-17 |
+| すみません | sumimasen | excuse me | 2026-11-17 |
+| この近く / このちかく | kono chikaku | near here | 2026-11-17 |
+| 分かりません / わかりません | wakarimasen | I don't know / don't understand | 2026-11-17 |
+| 道 / みち | michi | road, street | 2026-11-17 |
+| まっすぐ | massugu | straight ahead | 2026-11-17 |
+| 曲がります / まがります | magarimasu | turn | 2026-11-17 |
+| 線路 / せんろ | senro | railroad tracks | 2026-11-17 |
+| 向かい / むかい | mukai | across (the street), opposite | 2026-11-17 |
+| 目の前 / めのまえ | me no mae | right in front of you | 2026-11-17 |
+| 交番 / こうばん | kōban | police box (sign) | 2026-11-17 |
+| 薬局 / やっきょく | yakkyoku | pharmacy (sign) | 2026-11-17 |
+| 現在地 / げんざいち | genzaichi | you are here (map sign) | 2026-11-17 |
+| 徒歩〜分 / とほ〜ふん | toho ~fun | ~ minutes on foot (sign) | 2026-11-17 |
+| 地下鉄 / ちかてつ | chikatetsu | subway | 2026-11-17 |
 
 ## Grammar points
 
@@ -311,3 +355,18 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | 趣味は〜ことです | my hobby is ~ing (本を読むこと) | 2026-11-16 |
 | 〜のが好きです | like ~ing (音楽を聞くのが好きです) | 2026-11-16 |
 | 〜から(です) | because ~ (簡単でおいしいからです) | 2026-11-16 |
+| 〜はどこにありますか / 〜の上・下・中・右・左にあります | where is ~ / it's on, under, in, right of, left of ~ (箱の上にあります) | 2026-11-17 |
+| AとBの間にあります | it's between A and B | 2026-11-17 |
+| 〜はもうありません | ~ is gone / not there anymore | 2026-11-17 |
+| 〜はいくらですか / 〜円です | how much is ~ / it's ~ yen | 2026-11-17 |
+| 〜個入り / 〜枚入り | a pack of ~ (４個入り, ６枚入り) | 2026-11-17 |
+| 合計で〜円でした | it came to ~ yen in total | 2026-11-17 |
+| 〜までに〜なければいけません | must ~ by (date) (recognition only: ５月１日までに食べなければいけません) | 2026-11-17 |
+| この近くに〜はありますか | is there a ~ near here? | 2026-11-17 |
+| 〜にはどうやって行けばいいですか | how do I get to ~? | 2026-11-17 |
+| 〜がどこにあるか分かりません | I don't know where ~ is | 2026-11-17 |
+| まっすぐ行って、左に曲がって | go straight, turn left, and… (te-form chaining directions) | 2026-11-17 |
+| 〜と、〜が見えます / 左手に見えます | if you ~, you'll see ~ / you'll see it on your left | 2026-11-17 |
+| 〜たところにあります | it's right where you've just ~ed (駅を出たところ, 線路を渡ったところ) | 2026-11-17 |
+| 〜くらいかかります | it takes about ~ (３０分くらいかかります) | 2026-11-17 |
+| 〜で行った方がいいですよ | you'd better go by ~ (advice) | 2026-11-17 |
