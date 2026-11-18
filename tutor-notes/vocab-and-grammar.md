@@ -293,6 +293,52 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | 現在地 / げんざいち | genzaichi | you are here (map sign) | 2026-11-17 |
 | 徒歩〜分 / とほ〜ふん | toho ~fun | ~ minutes on foot (sign) | 2026-11-17 |
 | 地下鉄 / ちかてつ | chikatetsu | subway | 2026-11-17 |
+| キャラクター | kyarakutā | character | 2026-11-18 |
+| アニメ | anime | anime | 2026-11-18 |
+| 映画 / えいが | eiga | movie | 2026-11-18 |
+| 漫画 / まんが | manga | manga, comics | 2026-11-18 |
+| 正解 / せいかい | seikai | correct answer | 2026-11-18 |
+| 第〜問 / だい〜もん | dai ~mon | question no. ~ | 2026-11-18 |
+| どら焼き / どらやき | dorayaki | pancake sandwich with bean paste | 2026-11-18 |
+| 和菓子 / わがし | wagashi | traditional Japanese sweets | 2026-11-18 |
+| あんこ | anko | sweet red-bean paste | 2026-11-18 |
+| ロボット | robotto | robot | 2026-11-18 |
+| 嫌い / きらい | kirai | dislike, hate | 2026-11-18 |
+| 苦手 / にがて | nigate | not good with, scared of | 2026-11-18 |
+| 犬 / いぬ | inu | dog | 2026-11-18 |
+| うさぎ | usagi | rabbit | 2026-11-18 |
+| ネズミ | nezumi | mouse, rat | 2026-11-18 |
+| 耳 / みみ | mimi | ear | 2026-11-18 |
+| 昔 / むかし | mukashi | long ago | 2026-11-18 |
+| 逃げます / にげます | nigemasu | run away | 2026-11-18 |
+| 押入れ / おしいれ | oshiire | Japanese closet (futons) | 2026-11-18 |
+| 布団 / ふとん | futon | futon bedding | 2026-11-18 |
+| 未来 / みらい | mirai | future | 2026-11-18 |
+| 過去 / かこ | kako | past | 2026-11-18 |
+| 〜世紀 / 〜せいき | ~seiki | ~ century | 2026-11-18 |
+| 保育園 / ほいくえん | hoikuen | nursery school, daycare | 2026-11-18 |
+| 小学校 / しょうがっこう | shōgakkō | elementary school | 2026-11-18 |
+| 〜年生 / 〜ねんせい | ~nensei | ~th grader | 2026-11-18 |
+| 今年 / ことし | kotoshi | this year | 2026-11-18 |
+| 卒園 / そつえん | sotsuen | graduating nursery school | 2026-11-18 |
+| 友達 / ともだち | tomodachi | friend | 2026-11-18 |
+| 泣きます / なきます | nakimasu | cry | 2026-11-18 |
+| お別れ / おわかれ | owakare | goodbye, parting | 2026-11-18 |
+| 優しい / やさしい | yasashii | kind, gentle | 2026-11-18 |
+| 若い / わかい | wakai | young | 2026-11-18 |
+| 手紙 / てがみ | tegami | letter | 2026-11-18 |
+| 会いたい / あいたい | aitai | want to see, miss (someone) | 2026-11-18 |
+| 経ちました / たちました | tachimashita | (time) passed | 2026-11-18 |
+| 半年 / はんとし | hantoshi | half a year | 2026-11-18 |
+| 嬉しい / うれしい | ureshii | happy, glad | 2026-11-18 |
+| 寂しい / さびしい | sabishii | lonely, missing someone | 2026-11-18 |
+| 恥ずかしい / はずかしい | hazukashii | embarrassed, shy | 2026-11-18 |
+| 洋菓子 / ようがし | yōgashi | Western sweets (sign) | 2026-11-18 |
+| 〜堂 / 〜どう | ~dō | shop-name ending (sign) | 2026-11-18 |
+| 本日 / ほんじつ | honjitsu | today (sign) | 2026-11-18 |
+| おすすめ | osusume | recommended (sign) | 2026-11-18 |
+| 売り切れ / うりきれ | urikire | sold out (sign) | 2026-11-18 |
+| つぶあん / こしあん | tsubuan / koshian | chunky / smooth bean paste | 2026-11-18 |
 
 ## Grammar points
 
@@ -370,3 +416,18 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | 〜たところにあります | it's right where you've just ~ed (駅を出たところ, 線路を渡ったところ) | 2026-11-17 |
 | 〜くらいかかります | it takes about ~ (３０分くらいかかります) | 2026-11-17 |
 | 〜で行った方がいいですよ | you'd better go by ~ (advice) | 2026-11-17 |
+| 〜たことがありますか / 〜たことがあります | have you ever ~? / I have ~ed (見たことがあります) | 2026-11-18 |
+| 〜たいと思います | I think I'll ~ / I'd like to ~ (クイズをしたいと思います) | 2026-11-18 |
+| 〜でしょう？ | quiz-style question (何でしょう？) | 2026-11-18 |
+| Aか、Bか、Cか | A, B, or C? (listing choices) | 2026-11-18 |
+| 〜が苦手です | I'm bad with / don't like ~ (softer than 嫌い) | 2026-11-18 |
+| AなのにB | even though A, B (猫なのにネズミが苦手) | 2026-11-18 |
+| 〜に見えます / 見えません | looks like ~ / doesn't look like ~ (猫に見えません) | 2026-11-18 |
+| 〜に〜をかじられました | had ~ bitten by ~ (passive, recognize only) | 2026-11-18 |
+| 「…」と言いました / と言って泣いていました | quoting what someone said | 2026-11-18 |
+| 〜ていました | was ~ing / used to ~ (泣いていました, 通っていました) | 2026-11-18 |
+| 〜くて、〜 (若くて優しい) | linking adjectives; also 'because' (嬉しくて泣いていました) | 2026-11-18 |
+| 〜て〜ヶ月経ちました | ~ months have passed since ~ | 2026-11-18 |
+| 〜ぶりに | for the first time in ~ (半年ぶりに) | 2026-11-18 |
+| 〜てもらいました | had someone do ~ for me (ぎゅーしてもらいました) | 2026-11-18 |
+| 〜そうでした (嬉しそう) | looked ~ (嬉しそうでした) | 2026-11-18 |
