@@ -339,6 +339,52 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | おすすめ | osusume | recommended (sign) | 2026-11-18 |
 | 売り切れ / うりきれ | urikire | sold out (sign) | 2026-11-18 |
 | つぶあん / こしあん | tsubuan / koshian | chunky / smooth bean paste | 2026-11-18 |
+| おんどり / めんどり | ondori / mendori | rooster / hen | 2026-11-19 |
+| 昔々 / むかしむかし | mukashi mukashi | once upon a time | 2026-11-19 |
+| 小麦 / こむぎ | komugi | wheat | 2026-11-19 |
+| 小麦粉 / こむぎこ | komugiko | flour | 2026-11-19 |
+| 畑 / はたけ | hatake | field (for crops) | 2026-11-19 |
+| 蒔きます / まきます | makimasu | plant, sow (seeds) | 2026-11-19 |
+| 育てます / そだてます | sodatemasu | grow, raise | 2026-11-19 |
+| 手伝います / てつだいます | tetsudaimasu | help | 2026-11-19 |
+| 一人で / ひとりで | hitori de | by oneself, alone | 2026-11-19 |
+| 収穫 / しゅうかく | shūkaku | harvest | 2026-11-19 |
+| 焼きます / やきます | yakimasu | bake, grill | 2026-11-19 |
+| いい匂い / いいにおい | ii nioi | smells good | 2026-11-19 |
+| おいしそう | oishisō | looks delicious | 2026-11-19 |
+| 眠い / ねむい | nemui | sleepy | 2026-11-19 |
+| 無理 / むり | muri | impossible, no way | 2026-11-19 |
+| めんどくさい | mendokusai | what a pain, can't be bothered | 2026-11-19 |
+| 大変 / たいへん | taihen | hard, a lot of work | 2026-11-19 |
+| 働きます / はたらきます | hatarakimasu | work | 2026-11-19 |
+| おしまい | oshimai | the end | 2026-11-19 |
+| 居酒屋 / いざかや | izakaya | Japanese pub | 2026-11-19 |
+| お酒 / おさけ | osake | alcohol, sake | 2026-11-19 |
+| 予約 / よやく | yoyaku | reservation | 2026-11-19 |
+| 電話 / でんわ | denwa | phone, phone call | 2026-11-19 |
+| 来週 / らいしゅう | raishū | next week | 2026-11-19 |
+| 夕方 / ゆうがた | yūgata | early evening | 2026-11-19 |
+| 緊張します / きんちょうします | kinchō shimasu | be nervous | 2026-11-19 |
+| ドキドキ | dokidoki | heart pounding, nervous | 2026-11-19 |
+| 楽しみ / たのしみ | tanoshimi | looking forward to it | 2026-11-19 |
+| 聞こえます / きこえます | kikoemasu | can hear | 2026-11-19 |
+| 意味 / いみ | imi | meaning | 2026-11-19 |
+| 日時 / にちじ | nichiji | date and time | 2026-11-19 |
+| 何名様 / なんめいさま | nanmei-sama | how many people? (polite, at shops) | 2026-11-19 |
+| コース料理 / コースりょうり | kōsu ryōri | set course meal | 2026-11-19 |
+| 値段 / ねだん | nedan | price | 2026-11-19 |
+| 飲み放題 / のみほうだい | nomihōdai | all-you-can-drink | 2026-11-19 |
+| 席 / せき | seki | seat | 2026-11-19 |
+| 当日 / とうじつ | tōjitsu | on the day | 2026-11-19 |
+| 遅れます / おくれます | okuremasu | be late | 2026-11-19 |
+| キャンセル | kyanseru | cancellation | 2026-11-19 |
+| 時間通り / じかんどおり | jikan dōri | on time | 2026-11-19 |
+| 食べ放題 / たべほうだい | tabehōdai | all-you-can-eat (sign) | 2026-11-19 |
+| 満席 / まんせき | manseki | full, no seats (sign) | 2026-11-19 |
+| 生ビール / なまビール | nama biiru | draft beer (menu) | 2026-11-19 |
+| お通し / おとおし | otōshi | small cover-charge appetizer (menu) | 2026-11-19 |
+| ラストオーダー | rasuto ōdā | last order (sign) | 2026-11-19 |
+| 松・竹・梅 / まつ・たけ・うめ | matsu / take / ume | top / middle / basic tier (menu) | 2026-11-19 |
 
 ## Grammar points
 
@@ -431,3 +477,15 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | 〜ぶりに | for the first time in ~ (半年ぶりに) | 2026-11-18 |
 | 〜てもらいました | had someone do ~ for me (ぎゅーしてもらいました) | 2026-11-18 |
 | 〜そうでした (嬉しそう) | looked ~ (嬉しそうでした) | 2026-11-18 |
+| 誰か〜てくれる？ / 〜てくれますか | can someone ~ for me? (casual / polite request: 手伝ってくれる？) | 2026-11-19 |
+| 誰も〜ません | nobody ~ (誰も手伝ってくれません) | 2026-11-19 |
+| 〜から無理 | can't, because ~ (眠いから無理) | 2026-11-19 |
+| 〜んだから | since/because (insistent: 私が作ったんだから、私が食べる) | 2026-11-19 |
+| 〜たがっています | (someone else) wants to ~ (食べたがっています, recognize only) | 2026-11-19 |
+| 〜たり〜たりしました | did things like ~ and ~ (水をあげたり草を抜いたり) | 2026-11-19 |
+| 〜ってなんですか / 〜ってどういう意味ですか | what's ~? / what does ~ mean? (conversation lifesaver) | 2026-11-19 |
+| もう一度いいですか | could you say that again? | 2026-11-19 |
+| [time/thing]でお願いします | I'll go with ~, please (６時でお願いします / 席だけ予約で) | 2026-11-19 |
+| [number]人で行きます | we'll go as a group of ~ | 2026-11-19 |
+| 〜といいな | I hope ~ (晴れるといいな) | 2026-11-19 |
+| 〜と〜になります | if ~, it becomes ~ (15分遅れるとキャンセルになります) | 2026-11-19 |
