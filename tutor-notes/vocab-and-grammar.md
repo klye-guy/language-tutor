@@ -385,6 +385,50 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | お通し / おとおし | otōshi | small cover-charge appetizer (menu) | 2026-11-19 |
 | ラストオーダー | rasuto ōdā | last order (sign) | 2026-11-19 |
 | 松・竹・梅 / まつ・たけ・うめ | matsu / take / ume | top / middle / basic tier (menu) | 2026-11-19 |
+| 空港 / くうこう | kūkō | airport | 2026-11-20 |
+| 飛行機 / ひこうき | hikōki | airplane | 2026-11-20 |
+| 到着します / とうちゃくします | tōchaku shimasu | arrive (formal) | 2026-11-20 |
+| 搭乗手続き / とうじょうてつづき | tōjō tetsuzuki | flight check-in | 2026-11-20 |
+| チケット | chiketto | ticket | 2026-11-20 |
+| パスポート | pasupōto | passport | 2026-11-20 |
+| 必要 / ひつよう | hitsuyō | necessary, needed | 2026-11-20 |
+| 要ります / いります | irimasu | need | 2026-11-20 |
+| 国内 / こくない | kokunai | domestic | 2026-11-20 |
+| 海外 / かいがい | kaigai | overseas, abroad | 2026-11-20 |
+| 荷物 / にもつ | nimotsu | luggage, bags | 2026-11-20 |
+| スーツケース | sūtsukēsu | suitcase | 2026-11-20 |
+| 預けます / あずけます | azukemasu | check (a bag), leave with someone | 2026-11-20 |
+| 保安検査 / ほあんけんさ | hoan kensa | security check | 2026-11-20 |
+| 通ります / とおります | tōrimasu | go through, pass | 2026-11-20 |
+| 搭乗口 / とうじょうぐち | tōjō-guchi | boarding gate | 2026-11-20 |
+| 海外旅行 / かいがいりょこう | kaigai ryokō | overseas trip | 2026-11-20 |
+| 外国 / がいこく | gaikoku | foreign country | 2026-11-20 |
+| 以前 / いぜん | izen | before, previously | 2026-11-20 |
+| 最近 / さいきん | saikin | lately, recently | 2026-11-20 |
+| 人生で初めて / じんせいではじめて | jinsei de hajimete | for the first time in my life | 2026-11-20 |
+| おば / おばさん | oba / obasan | aunt | 2026-11-20 |
+| 国 / くに | kuni | country | 2026-11-20 |
+| 登ります / のぼります | noborimasu | climb | 2026-11-20 |
+| 象 / ぞう | zō | elephant | 2026-11-20 |
+| 美術館 / びじゅつかん | bijutsukan | art museum | 2026-11-20 |
+| 森 / もり | mori | forest | 2026-11-20 |
+| 湖 / みずうみ | mizuumi | lake | 2026-11-20 |
+| 自然 / しぜん | shizen | nature | 2026-11-20 |
+| 将来 / しょうらい | shōrai | future | 2026-11-20 |
+| いつか | itsuka | someday | 2026-11-20 |
+| まだ | mada | (not) yet | 2026-11-20 |
+| 出発 / しゅっぱつ | shuppatsu | departure (sign) | 2026-11-20 |
+| 到着 / とうちゃく | tōchaku | arrival (sign) | 2026-11-20 |
+| 国内線 / 国際線 | kokunaisen / kokusaisen | domestic / international flights (sign) | 2026-11-20 |
+| 便 / びん | bin | flight (sign) | 2026-11-20 |
+| 行先 / いきさき | ikisaki | destination (sign) | 2026-11-20 |
+| 定刻 / ていこく | teikoku | scheduled time, on time (sign) | 2026-11-20 |
+| 搭乗中 / とうじょうちゅう | tōjōchū | now boarding (sign) | 2026-11-20 |
+| 遅延 / ちえん | chien | delay (sign) | 2026-11-20 |
+| 変更 / へんこう | henkō | change (sign) | 2026-11-20 |
+| 欠航 / けっこう | kekkō | flight cancelled (sign) | 2026-11-20 |
+| 保安検査場 / ほあんけんさじょう | hoan kensajō | security checkpoint (sign) | 2026-11-20 |
+| 手荷物 / てにもつ | tenimotsu | baggage, carry-on (sign) | 2026-11-20 |
 
 ## Grammar points
 
@@ -489,3 +533,14 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | [number]人で行きます | we'll go as a group of ~ | 2026-11-19 |
 | 〜といいな | I hope ~ (晴れるといいな) | 2026-11-19 |
 | 〜と〜になります | if ~, it becomes ~ (15分遅れるとキャンセルになります) | 2026-11-19 |
+| 〜は〜場所です | ~ is a place for ~ (空港は飛行機に乗る場所です) | 2026-11-20 |
+| 〜たら、まず / 次は | when ~, first / next ~ (sequencing steps: 着いたら、まず搭乗手続きをします) | 2026-11-20 |
+| 〜てから | after doing ~ (トイレに行ってから搭乗口に行きます) | 2026-11-20 |
+| 〜ておきます | do ~ in advance (トイレに行っておきます) | 2026-11-20 |
+| 〜の場合は | in the case of ~ (海外に行く場合はパスポートが要ります) | 2026-11-20 |
+| 〜に行ったことがあります / ありません | I have / haven't been to ~ (answer to 〜たことがありますか) | 2026-11-20 |
+| 今までに〜 | up to now, so far (今までに９つの国に行きました) | 2026-11-20 |
+| 〜では〜ました | in [place], I did ~ (タイでは象に乗りました) | 2026-11-20 |
+| 〜年間〜ていません | haven't done ~ for ~ years (８年間海外旅行をしていません) | 2026-11-20 |
+| いいえ、まだありません | no, not yet (natural answer to 〜たことがありますか) | 2026-11-20 |
+| 一つ…九つ / 〜か国 | native counter for things (九つの国) / counter for countries | 2026-11-20 |
