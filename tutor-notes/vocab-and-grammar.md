@@ -429,6 +429,48 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | 欠航 / けっこう | kekkō | flight cancelled (sign) | 2026-11-20 |
 | 保安検査場 / ほあんけんさじょう | hoan kensajō | security checkpoint (sign) | 2026-11-20 |
 | 手荷物 / てにもつ | tenimotsu | baggage, carry-on (sign) | 2026-11-20 |
+| 麺料理 / めんりょうり | men-ryōri | noodle dish | 2026-11-21 |
+| 蕎麦 / そば | soba | buckwheat noodles | 2026-11-21 |
+| うどん | udon | thick wheat noodles | 2026-11-21 |
+| 焼きそば / やきそば | yakisoba | fried noodles | 2026-11-21 |
+| 温かい / あたたかい | atatakai | warm (food, drink) | 2026-11-21 |
+| 冷たい / つめたい | tsumetai | cold (food, drink) | 2026-11-21 |
+| 牛肉 / ぎゅうにく | gyūniku | beef | 2026-11-21 |
+| 豚肉 / ぶたにく | butaniku | pork | 2026-11-21 |
+| 海老 / えび | ebi | shrimp | 2026-11-21 |
+| ごぼう | gobō | burdock root | 2026-11-21 |
+| 太い / ふとい | futoi | thick | 2026-11-21 |
+| 細い / ほそい | hosoi | thin | 2026-11-21 |
+| 牡蠣 / かき | kaki | oyster | 2026-11-21 |
+| 塩味 / しおあじ | shio-aji | salt flavor | 2026-11-21 |
+| 辛味噌 / からみそ | karamiso | spicy miso | 2026-11-21 |
+| 香り / かおり | kaori | smell, aroma | 2026-11-21 |
+| ナポリタン | naporitan | Japanese ketchup spaghetti | 2026-11-21 |
+| 焼き鳥 / やきとり | yakitori | grilled skewers (mostly chicken) | 2026-11-21 |
+| 串 / くし | kushi | skewer | 2026-11-21 |
+| 〜本 / ほん・ぽん・ぼん | -hon | counter for long thin things (skewers, bottles) | 2026-11-21 |
+| 焼きます / やきます | yakimasu | to grill, bake | 2026-11-21 |
+| 定番 / ていばん | teiban | a standard, classic item | 2026-11-21 |
+| テイクアウト | teikuauto | takeout | 2026-11-21 |
+| 役に立ちます / やくにたちます | yaku ni tachimasu | is useful | 2026-11-21 |
+| 豚バラ / ぶたバラ | buta-bara | pork belly | 2026-11-21 |
+| 脂 / あぶら | abura | fat | 2026-11-21 |
+| タレ / たれ | tare | sweet soy glaze | 2026-11-21 |
+| もも / かしわ | momo / kashiwa | chicken thigh (かしわ in Kyushu) | 2026-11-21 |
+| つくね | tsukune | chicken meatball | 2026-11-21 |
+| 鶏皮 / とりかわ | torikawa | chicken skin | 2026-11-21 |
+| 柔らかい / やわらかい | yawarakai | soft, tender | 2026-11-21 |
+| パリパリ | paripari | crispy | 2026-11-21 |
+| 珍しい / めずらしい | mezurashii | unusual, rare | 2026-11-21 |
+| 頼みました / たのみました | tanomimashita | ordered, asked for | 2026-11-21 |
+| 手羽先 / てばさき | tebasaki | chicken wing tip | 2026-11-21 |
+| 砂肝 / すなぎも (砂ずり) | sunagimo | chicken gizzard | 2026-11-21 |
+| 串焼き / くしやき | kushiyaki | grilled skewers (sign) | 2026-11-21 |
+| 盛り合わせ / もりあわせ | moriawase | assortment, platter (sign) | 2026-11-21 |
+| おまかせ | omakase | chef's choice (sign) | 2026-11-21 |
+| お持ち帰り / おもちかえり | omochikaeri | takeout (sign) | 2026-11-21 |
+| 大盛り / おおもり | ōmori | large portion (sign) | 2026-11-21 |
+| 〆 / しめ | shime | dish to finish the night with (sign) | 2026-11-21 |
 
 ## Grammar points
 
@@ -544,3 +586,11 @@ _Running list of words, phrases, and grammar points introduced in lessons, so la
 | 〜年間〜ていません | haven't done ~ for ~ years (８年間海外旅行をしていません) | 2026-11-20 |
 | いいえ、まだありません | no, not yet (natural answer to 〜たことがありますか) | 2026-11-20 |
 | 一つ…九つ / 〜か国 | native counter for things (九つの国) / counter for countries | 2026-11-20 |
+| AよりもBの方が〜です | B is more ~ than A (蕎麦よりもうどんの方が太いです) | 2026-11-21 |
+| A、B、C、どれが一番〜ですか / 〜の中で〜が一番〜 | which (of 3+) is the most ~? / of all ~, ~ is the most ~ (焼き鳥の中で、つくねが一番好き) | 2026-11-21 |
+| AでもBでもありません | it's neither A nor B (パンでもご飯でもありません) | 2026-11-21 |
+| 〜という名前の〜 / 〜と言います | a ~ called ~ / it's called ~ (ナポリタンという名前のスパゲティ) | 2026-11-21 |
+| 〜がのっています / 〜が入っています | ~ is on top / ~ is in it (describing dishes) | 2026-11-21 |
+| 〜の香りがします | it smells of ~ (海老のいい香りがしました) | 2026-11-21 |
+| [thing]を[n]本ください | ~ skewers/bottles of ~, please (つくねを２本ください) | 2026-11-21 |
+| 〜と思います | I think ~ (安いと思います / 役に立つと思います) | 2026-11-21 |
